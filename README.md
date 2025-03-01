@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** file for your project:  
-
----
-
 # **Predicting Electricity Demand: A Data-Driven Approach**  
 
 ## **Project Overview**  
