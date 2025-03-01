@@ -1,0 +1,276 @@
+period,subba,subba-name,parent,parent-name,value,value-units
+2023-12-23T00,ZONA,West - NYIS,NYIS,New York Independent System Operator,1918,megawatthours
+2023-12-23T00,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1265,megawatthours
+2023-12-23T00,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2115,megawatthours
+2023-12-23T00,ZOND,North - NYIS,NYIS,New York Independent System Operator,748,megawatthours
+2023-12-23T00,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1072,megawatthours
+2023-12-23T00,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1621,megawatthours
+2023-12-23T00,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1386,megawatthours
+2023-12-23T00,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,440,megawatthours
+2023-12-23T00,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,772,megawatthours
+2023-12-23T00,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6156,megawatthours
+2023-12-23T00,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2818,megawatthours
+2023-12-22T23,ZONA,West - NYIS,NYIS,New York Independent System Operator,1940,megawatthours
+2023-12-22T23,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1285,megawatthours
+2023-12-22T23,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2162,megawatthours
+2023-12-22T23,ZOND,North - NYIS,NYIS,New York Independent System Operator,775,megawatthours
+2023-12-22T23,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1082,megawatthours
+2023-12-22T23,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1635,megawatthours
+2023-12-22T23,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1377,megawatthours
+2023-12-22T23,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,435,megawatthours
+2023-12-22T23,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,775,megawatthours
+2023-12-22T23,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6281,megawatthours
+2023-12-22T23,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2803,megawatthours
+2023-12-22T22,ZONA,West - NYIS,NYIS,New York Independent System Operator,1877,megawatthours
+2023-12-22T22,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1251,megawatthours
+2023-12-22T22,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2113,megawatthours
+2023-12-22T22,ZOND,North - NYIS,NYIS,New York Independent System Operator,766,megawatthours
+2023-12-22T22,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1045,megawatthours
+2023-12-22T22,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1562,megawatthours
+2023-12-22T22,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1298,megawatthours
+2023-12-22T22,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,403,megawatthours
+2023-12-22T22,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,727,megawatthours
+2023-12-22T22,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6148,megawatthours
+2023-12-22T22,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2583,megawatthours
+2023-12-22T21,ZONA,West - NYIS,NYIS,New York Independent System Operator,1823,megawatthours
+2023-12-22T21,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1192,megawatthours
+2023-12-22T21,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2005,megawatthours
+2023-12-22T21,ZOND,North - NYIS,NYIS,New York Independent System Operator,750,megawatthours
+2023-12-22T21,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,959,megawatthours
+2023-12-22T21,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1443,megawatthours
+2023-12-22T21,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1177,megawatthours
+2023-12-22T21,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,371,megawatthours
+2023-12-22T21,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,678,megawatthours
+2023-12-22T21,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6008,megawatthours
+2023-12-22T21,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2336,megawatthours
+2023-12-22T20,ZONA,West - NYIS,NYIS,New York Independent System Operator,1822,megawatthours
+2023-12-22T20,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1169,megawatthours
+2023-12-22T20,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1925,megawatthours
+2023-12-22T20,ZOND,North - NYIS,NYIS,New York Independent System Operator,731,megawatthours
+2023-12-22T20,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,871,megawatthours
+2023-12-22T20,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1326,megawatthours
+2023-12-22T20,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1090,megawatthours
+2023-12-22T20,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,362,megawatthours
+2023-12-22T20,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,664,megawatthours
+2023-12-22T20,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5958,megawatthours
+2023-12-22T20,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2225,megawatthours
+2023-12-22T19,ZONA,West - NYIS,NYIS,New York Independent System Operator,1851,megawatthours
+2023-12-22T19,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1154,megawatthours
+2023-12-22T19,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1882,megawatthours
+2023-12-22T19,ZOND,North - NYIS,NYIS,New York Independent System Operator,727,megawatthours
+2023-12-22T19,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,843,megawatthours
+2023-12-22T19,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1238,megawatthours
+2023-12-22T19,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1020,megawatthours
+2023-12-22T19,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,355,megawatthours
+2023-12-22T19,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,659,megawatthours
+2023-12-22T19,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5987,megawatthours
+2023-12-22T19,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2115,megawatthours
+2023-12-22T18,ZONA,West - NYIS,NYIS,New York Independent System Operator,1848,megawatthours
+2023-12-22T18,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1147,megawatthours
+2023-12-22T18,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1863,megawatthours
+2023-12-22T18,ZOND,North - NYIS,NYIS,New York Independent System Operator,731,megawatthours
+2023-12-22T18,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,831,megawatthours
+2023-12-22T18,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1221,megawatthours
+2023-12-22T18,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,985,megawatthours
+2023-12-22T18,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,357,megawatthours
+2023-12-22T18,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,661,megawatthours
+2023-12-22T18,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6044,megawatthours
+2023-12-22T18,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2082,megawatthours
+2023-12-22T17,ZONA,West - NYIS,NYIS,New York Independent System Operator,1868,megawatthours
+2023-12-22T17,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1148,megawatthours
+2023-12-22T17,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1899,megawatthours
+2023-12-22T17,ZOND,North - NYIS,NYIS,New York Independent System Operator,742,megawatthours
+2023-12-22T17,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,847,megawatthours
+2023-12-22T17,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1254,megawatthours
+2023-12-22T17,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1016,megawatthours
+2023-12-22T17,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,364,megawatthours
+2023-12-22T17,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,672,megawatthours
+2023-12-22T17,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6094,megawatthours
+2023-12-22T17,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2111,megawatthours
+2023-12-22T16,ZONA,West - NYIS,NYIS,New York Independent System Operator,1889,megawatthours
+2023-12-22T16,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1168,megawatthours
+2023-12-22T16,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1902,megawatthours
+2023-12-22T16,ZOND,North - NYIS,NYIS,New York Independent System Operator,751,megawatthours
+2023-12-22T16,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,876,megawatthours
+2023-12-22T16,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1302,megawatthours
+2023-12-22T16,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1059,megawatthours
+2023-12-22T16,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,381,megawatthours
+2023-12-22T16,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,690,megawatthours
+2023-12-22T16,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6136,megawatthours
+2023-12-22T16,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2231,megawatthours
+2023-12-22T15,ZONA,West - NYIS,NYIS,New York Independent System Operator,1904,megawatthours
+2023-12-22T15,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1207,megawatthours
+2023-12-22T15,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2010,megawatthours
+2023-12-22T15,ZOND,North - NYIS,NYIS,New York Independent System Operator,763,megawatthours
+2023-12-22T15,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,956,megawatthours
+2023-12-22T15,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1386,megawatthours
+2023-12-22T15,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1139,megawatthours
+2023-12-22T15,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,401,megawatthours
+2023-12-22T15,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,707,megawatthours
+2023-12-22T15,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6117,megawatthours
+2023-12-22T15,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2325,megawatthours
+2023-12-22T14,ZONA,West - NYIS,NYIS,New York Independent System Operator,1928,megawatthours
+2023-12-22T14,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1267,megawatthours
+2023-12-22T14,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2120,megawatthours
+2023-12-22T14,ZOND,North - NYIS,NYIS,New York Independent System Operator,773,megawatthours
+2023-12-22T14,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1039,megawatthours
+2023-12-22T14,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1508,megawatthours
+2023-12-22T14,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1251,megawatthours
+2023-12-22T14,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,408,megawatthours
+2023-12-22T14,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,711,megawatthours
+2023-12-22T14,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5956,megawatthours
+2023-12-22T14,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2406,megawatthours
+2023-12-22T13,ZONA,West - NYIS,NYIS,New York Independent System Operator,1904,megawatthours
+2023-12-22T13,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1269,megawatthours
+2023-12-22T13,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2145,megawatthours
+2023-12-22T13,ZOND,North - NYIS,NYIS,New York Independent System Operator,763,megawatthours
+2023-12-22T13,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1080,megawatthours
+2023-12-22T13,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1541,megawatthours
+2023-12-22T13,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1265,megawatthours
+2023-12-22T13,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,402,megawatthours
+2023-12-22T13,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,706,megawatthours
+2023-12-22T13,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5707,megawatthours
+2023-12-22T13,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2417,megawatthours
+2023-12-22T12,ZONA,West - NYIS,NYIS,New York Independent System Operator,1817,megawatthours
+2023-12-22T12,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1193,megawatthours
+2023-12-22T12,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2031,megawatthours
+2023-12-22T12,ZOND,North - NYIS,NYIS,New York Independent System Operator,747,megawatthours
+2023-12-22T12,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1027,megawatthours
+2023-12-22T12,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1464,megawatthours
+2023-12-22T12,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1207,megawatthours
+2023-12-22T12,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,379,megawatthours
+2023-12-22T12,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,659,megawatthours
+2023-12-22T12,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5287,megawatthours
+2023-12-22T12,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2290,megawatthours
+2023-12-22T11,ZONA,West - NYIS,NYIS,New York Independent System Operator,1724,megawatthours
+2023-12-22T11,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1106,megawatthours
+2023-12-22T11,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1898,megawatthours
+2023-12-22T11,ZOND,North - NYIS,NYIS,New York Independent System Operator,728,megawatthours
+2023-12-22T11,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,954,megawatthours
+2023-12-22T11,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1357,megawatthours
+2023-12-22T11,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1129,megawatthours
+2023-12-22T11,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,345,megawatthours
+2023-12-22T11,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,602,megawatthours
+2023-12-22T11,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4866,megawatthours
+2023-12-22T11,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2101,megawatthours
+2023-12-22T10,ZONA,West - NYIS,NYIS,New York Independent System Operator,1669,megawatthours
+2023-12-22T10,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1046,megawatthours
+2023-12-22T10,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1809,megawatthours
+2023-12-22T10,ZOND,North - NYIS,NYIS,New York Independent System Operator,719,megawatthours
+2023-12-22T10,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,909,megawatthours
+2023-12-22T10,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1292,megawatthours
+2023-12-22T10,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1088,megawatthours
+2023-12-22T10,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,320,megawatthours
+2023-12-22T10,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,564,megawatthours
+2023-12-22T10,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4662,megawatthours
+2023-12-22T10,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,1984,megawatthours
+2023-12-22T09,ZONA,West - NYIS,NYIS,New York Independent System Operator,1657,megawatthours
+2023-12-22T09,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1031,megawatthours
+2023-12-22T09,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1776,megawatthours
+2023-12-22T09,ZOND,North - NYIS,NYIS,New York Independent System Operator,716,megawatthours
+2023-12-22T09,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,888,megawatthours
+2023-12-22T09,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1270,megawatthours
+2023-12-22T09,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1069,megawatthours
+2023-12-22T09,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,316,megawatthours
+2023-12-22T09,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,551,megawatthours
+2023-12-22T09,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4623,megawatthours
+2023-12-22T09,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,1949,megawatthours
+2023-12-22T08,ZONA,West - NYIS,NYIS,New York Independent System Operator,1668,megawatthours
+2023-12-22T08,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1030,megawatthours
+2023-12-22T08,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1768,megawatthours
+2023-12-22T08,ZOND,North - NYIS,NYIS,New York Independent System Operator,708,megawatthours
+2023-12-22T08,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,882,megawatthours
+2023-12-22T08,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1266,megawatthours
+2023-12-22T08,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1075,megawatthours
+2023-12-22T08,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,320,megawatthours
+2023-12-22T08,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,557,megawatthours
+2023-12-22T08,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4679,megawatthours
+2023-12-22T08,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,1968,megawatthours
+2023-12-22T07,ZONA,West - NYIS,NYIS,New York Independent System Operator,1682,megawatthours
+2023-12-22T07,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1037,megawatthours
+2023-12-22T07,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1781,megawatthours
+2023-12-22T07,ZOND,North - NYIS,NYIS,New York Independent System Operator,708,megawatthours
+2023-12-22T07,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,884,megawatthours
+2023-12-22T07,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1283,megawatthours
+2023-12-22T07,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1091,megawatthours
+2023-12-22T07,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,320,megawatthours
+2023-12-22T07,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,567,megawatthours
+2023-12-22T07,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4797,megawatthours
+2023-12-22T07,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2019,megawatthours
+2023-12-22T06,ZONA,West - NYIS,NYIS,New York Independent System Operator,1721,megawatthours
+2023-12-22T06,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1060,megawatthours
+2023-12-22T06,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1793,megawatthours
+2023-12-22T06,ZOND,North - NYIS,NYIS,New York Independent System Operator,733,megawatthours
+2023-12-22T06,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,900,megawatthours
+2023-12-22T06,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1310,megawatthours
+2023-12-22T06,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1126,megawatthours
+2023-12-22T06,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,327,megawatthours
+2023-12-22T06,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,586,megawatthours
+2023-12-22T06,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,4973,megawatthours
+2023-12-22T06,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2114,megawatthours
+2023-12-22T05,ZONA,West - NYIS,NYIS,New York Independent System Operator,1788,megawatthours
+2023-12-22T05,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1106,megawatthours
+2023-12-22T05,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1845,megawatthours
+2023-12-22T05,ZOND,North - NYIS,NYIS,New York Independent System Operator,740,megawatthours
+2023-12-22T05,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,933,megawatthours
+2023-12-22T05,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1364,megawatthours
+2023-12-22T05,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1185,megawatthours
+2023-12-22T05,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,347,megawatthours
+2023-12-22T05,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,619,megawatthours
+2023-12-22T05,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5237,megawatthours
+2023-12-22T05,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2251,megawatthours
+2023-12-22T04,ZONA,West - NYIS,NYIS,New York Independent System Operator,1866,megawatthours
+2023-12-22T04,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1182,megawatthours
+2023-12-22T04,ZONC,Central - NYIS,NYIS,New York Independent System Operator,1938,megawatthours
+2023-12-22T04,ZOND,North - NYIS,NYIS,New York Independent System Operator,736,megawatthours
+2023-12-22T04,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,975,megawatthours
+2023-12-22T04,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1452,megawatthours
+2023-12-22T04,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1268,megawatthours
+2023-12-22T04,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,375,megawatthours
+2023-12-22T04,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,671,megawatthours
+2023-12-22T04,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5543,megawatthours
+2023-12-22T04,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2440,megawatthours
+2023-12-22T03,ZONA,West - NYIS,NYIS,New York Independent System Operator,1949,megawatthours
+2023-12-22T03,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1259,megawatthours
+2023-12-22T03,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2031,megawatthours
+2023-12-22T03,ZOND,North - NYIS,NYIS,New York Independent System Operator,751,megawatthours
+2023-12-22T03,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1028,megawatthours
+2023-12-22T03,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1544,megawatthours
+2023-12-22T03,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1341,megawatthours
+2023-12-22T03,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,404,megawatthours
+2023-12-22T03,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,716,megawatthours
+2023-12-22T03,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5813,megawatthours
+2023-12-22T03,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2608,megawatthours
+2023-12-22T02,ZONA,West - NYIS,NYIS,New York Independent System Operator,2005,megawatthours
+2023-12-22T02,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1307,megawatthours
+2023-12-22T02,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2097,megawatthours
+2023-12-22T02,ZOND,North - NYIS,NYIS,New York Independent System Operator,763,megawatthours
+2023-12-22T02,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1068,megawatthours
+2023-12-22T02,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1605,megawatthours
+2023-12-22T02,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1392,megawatthours
+2023-12-22T02,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,422,megawatthours
+2023-12-22T02,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,745,megawatthours
+2023-12-22T02,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,5991,megawatthours
+2023-12-22T02,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2728,megawatthours
+2023-12-22T01,ZONA,West - NYIS,NYIS,New York Independent System Operator,2033,megawatthours
+2023-12-22T01,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1337,megawatthours
+2023-12-22T01,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2145,megawatthours
+2023-12-22T01,ZOND,North - NYIS,NYIS,New York Independent System Operator,769,megawatthours
+2023-12-22T01,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1093,megawatthours
+2023-12-22T01,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1651,megawatthours
+2023-12-22T01,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1414,megawatthours
+2023-12-22T01,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,428,megawatthours
+2023-12-22T01,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,769,megawatthours
+2023-12-22T01,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6144,megawatthours
+2023-12-22T01,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2782,megawatthours
+2023-12-22T00,ZONA,West - NYIS,NYIS,New York Independent System Operator,2054,megawatthours
+2023-12-22T00,ZONB,Genesee - NYIS,NYIS,New York Independent System Operator,1351,megawatthours
+2023-12-22T00,ZONC,Central - NYIS,NYIS,New York Independent System Operator,2157,megawatthours
+2023-12-22T00,ZOND,North - NYIS,NYIS,New York Independent System Operator,771,megawatthours
+2023-12-22T00,ZONE,Mohawk Valley - NYIS,NYIS,New York Independent System Operator,1108,megawatthours
+2023-12-22T00,ZONF,Capital - NYIS,NYIS,New York Independent System Operator,1676,megawatthours
+2023-12-22T00,ZONG,Hudson Valley - NYIS,NYIS,New York Independent System Operator,1416,megawatthours
+2023-12-22T00,ZONH,Millwood - NYIS,NYIS,New York Independent System Operator,431,megawatthours
+2023-12-22T00,ZONI,Dunwoodie - NYIS,NYIS,New York Independent System Operator,779,megawatthours
+2023-12-22T00,ZONJ,New York City - NYIS,NYIS,New York Independent System Operator,6248,megawatthours
+2023-12-22T00,ZONK,Long Island - NYIS,NYIS,New York Independent System Operator,2816,megawatthours

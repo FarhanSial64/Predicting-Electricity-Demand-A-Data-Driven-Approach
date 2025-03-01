@@ -1,0 +1,57 @@
+2025-02-28 21:09:56,796 - INFO - Using 8 threads for data cleaning.
+2025-02-28 21:09:56,797 - INFO - \U0001f680 Starting data cleaning process...
+2025-02-28 21:09:56,828 - INFO - Loaded merged_weather_data.csv with (29976, 2) shape.
+2025-02-28 21:09:56,833 - INFO - Missing Data Summary for Weather: temperature_2m    0.253536
+dtype: float64
+2025-02-28 21:09:56,888 - INFO - Missing data imputed for Weather.
+2025-02-28 21:09:56,898 - INFO - Converted date column to datetime in Weather.
+2025-02-28 21:09:56,905 - INFO - Removed 2371 duplicate rows from Weather.
+2025-02-28 21:09:56,911 - INFO - Marked 12 rows as 'Outlier' based on temperature_2m in Weather. Lower Bound: -13.89, Upper Bound: 35.71
+2025-02-28 21:09:56,944 - INFO - Feature engineering completed.
+2025-02-28 21:09:57,148 - INFO - Cleaned Weather data saved as cleaned_weather_data.csv.
+2025-02-28 21:09:57,452 - INFO - Loaded merged_electricity_data.csv with (289586, 7) shape.
+2025-02-28 21:09:57,526 - INFO - Missing Data Summary for Electricity: Series([], dtype: float64)
+2025-02-28 21:09:57,647 - INFO - Missing data imputed for Electricity.
+2025-02-28 21:09:57,668 - INFO - Converted date column to datetime in Electricity.
+2025-02-28 21:09:57,802 - INFO - Marked 28501 rows as 'Outlier' based on value in Electricity. Lower Bound: -847.50, Upper Bound: 3268.50
+2025-02-28 21:09:58,103 - INFO - Feature engineering completed.
+2025-02-28 21:10:00,322 - INFO - Cleaned Electricity data saved as cleaned_electricity_data.csv.
+2025-02-28 21:10:00,328 - INFO - \u2705 Data cleaning completed!
+2025-02-28 21:14:37,277 - INFO - Using 8 threads for data cleaning.
+2025-02-28 21:14:37,277 - INFO - \U0001f680 Starting data cleaning process...
+2025-02-28 21:14:37,310 - INFO - Loaded merged_weather_data.csv with (29976, 2) shape.
+2025-02-28 21:14:37,316 - INFO - Missing Data Summary for Weather: temperature_2m    0.253536
+dtype: float64
+2025-02-28 21:14:37,378 - INFO - Missing data imputed for Weather.
+2025-02-28 21:14:37,388 - INFO - Converted date column to datetime in Weather.
+2025-02-28 21:14:37,396 - INFO - Removed 2371 duplicate rows from Weather.
+2025-02-28 21:14:37,401 - INFO - Marked 12 rows as 'Outlier' based on temperature_2m in Weather. Lower Bound: -13.89, Upper Bound: 35.71
+2025-02-28 21:14:37,436 - INFO - Feature engineering completed.
+2025-02-28 21:14:37,809 - INFO - Loaded merged_electricity_data.csv with (289586, 7) shape.
+2025-02-28 21:14:37,889 - INFO - Missing Data Summary for Electricity: Series([], dtype: float64)
+2025-02-28 21:14:38,008 - INFO - Missing data imputed for Electricity.
+2025-02-28 21:14:38,028 - INFO - Converted date column to datetime in Electricity.
+2025-02-28 21:14:38,167 - INFO - Marked 28501 rows as 'Outlier' based on value in Electricity. Lower Bound: -847.50, Upper Bound: 3268.50
+2025-02-28 21:14:38,369 - INFO - Feature engineering completed.
+2025-02-28 21:14:40,473 - INFO - Cleaned Electricity data saved as cleaned_electricity_data.csv.
+2025-02-28 21:14:41,112 - ERROR - Error merging cleaned data: You are trying to merge on datetime64[ns, UTC] and datetime64[ns] columns for key 'date'. If you wish to proceed you should use pd.concat
+2025-02-28 21:14:41,126 - INFO - \u2705 Data cleaning completed!
+2025-02-28 21:19:03,779 - INFO - Using 8 threads for data cleaning.
+2025-02-28 21:19:03,779 - INFO - \U0001f680 Starting data cleaning process...
+2025-02-28 21:19:03,810 - INFO - Loaded merged_weather_data.csv with (29976, 2) shape.
+2025-02-28 21:19:03,815 - INFO - Missing Data Summary for Weather: temperature_2m    0.253536
+dtype: float64
+2025-02-28 21:19:03,870 - INFO - Missing data imputed for Weather.
+2025-02-28 21:19:03,882 - INFO - Converted date column to datetime in Weather.
+2025-02-28 21:19:03,889 - INFO - Removed 2371 duplicate rows from Weather.
+2025-02-28 21:19:03,895 - INFO - Marked 12 rows as 'Outlier' based on temperature_2m in Weather. Lower Bound: -13.89, Upper Bound: 35.71
+2025-02-28 21:19:03,929 - INFO - Feature engineering completed.
+2025-02-28 21:19:04,275 - INFO - Loaded merged_electricity_data.csv with (289586, 7) shape.
+2025-02-28 21:19:04,350 - INFO - Missing Data Summary for Electricity: Series([], dtype: float64)
+2025-02-28 21:19:04,462 - INFO - Missing data imputed for Electricity.
+2025-02-28 21:19:04,482 - INFO - Converted date column to datetime in Electricity.
+2025-02-28 21:19:04,613 - INFO - Marked 28501 rows as 'Outlier' based on value in Electricity. Lower Bound: -847.50, Upper Bound: 3268.50
+2025-02-28 21:19:04,817 - INFO - Feature engineering completed.
+2025-02-28 21:19:06,568 - INFO - Cleaned Electricity data saved as cleaned_electricity_data.csv.
+2025-02-28 21:19:09,565 - INFO - Merged cleaned data saved as merged_cleaned_data.csv.
+2025-02-28 21:19:09,581 - INFO - \u2705 Data cleaning completed!
